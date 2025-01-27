@@ -1,0 +1,6 @@
+100 Mbps
+2000 Kbps
+1 Gbps
+200 Mbps
+100 Tbps
+1000 Kbps
